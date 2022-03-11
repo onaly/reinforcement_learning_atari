@@ -2,7 +2,7 @@
 
 This is my implementation of a lab session at École Centrale de Lyon.
 
-The report (written in French) can be found in the files ("CR Onaly - TD3.pdf").
+The subject and the report (in French) can be found in the files.
 
 **Demo videos :**
 
